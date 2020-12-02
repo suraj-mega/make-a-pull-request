@@ -1,5 +1,5 @@
-# Still_trapped_suraj
+# Still_trapped_surajpatel
 
 ## 2st Year, CSE
 
-## c++, Java , javasript
+## c++, Java 
